@@ -86,6 +86,7 @@ public class DavidPugaRuano {
             x=x+1;
         else
             x= x-1;
+        
         return x;
     }
      
